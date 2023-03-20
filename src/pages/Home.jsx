@@ -194,14 +194,11 @@ const Home = () => {
             </div>
             <div className="contact__list">
                 <div className="contact__list--text" >
-                    <span>
-                    Thanks for take time to look my website.<br />
-                    If you found my profile and experience interesting, we can communicate to establish synergies.<br />
-                    <br />
-                    </span>
+                    <span>Thanks for take time to look my website.<br /></span>
+                    <span>If you found my profile and experience interesting, we can communicate to establish synergies.</span>
 
                     <span><strong>Name</strong>:  Nicolas Leonardo Santivañez<br /></span>
-                    <span><strong>Email</strong>:  nicolasantivanez1994zymx@gmail.com<br /></span>
+                    <span><strong>Email</strong>:  nicolas94santivanez94@gmail.com<br /></span>
                     <span><strong>WhatsApp</strong>:  +54 9 11 6573-4879<br /></span>
                     
                 </div>
